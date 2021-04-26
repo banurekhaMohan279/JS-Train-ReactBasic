@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JS-Train-ReactBasic/static/css/main.3faf75ee.chunk.css",
+    "main.js": "/JS-Train-ReactBasic/static/js/main.52527939.chunk.js",
+    "main.js.map": "/JS-Train-ReactBasic/static/js/main.52527939.chunk.js.map",
+    "runtime-main.js": "/JS-Train-ReactBasic/static/js/runtime-main.2a650247.js",
+    "runtime-main.js.map": "/JS-Train-ReactBasic/static/js/runtime-main.2a650247.js.map",
+    "static/js/2.e8c21638.chunk.js": "/JS-Train-ReactBasic/static/js/2.e8c21638.chunk.js",
+    "static/js/2.e8c21638.chunk.js.map": "/JS-Train-ReactBasic/static/js/2.e8c21638.chunk.js.map",
+    "static/js/3.77731a86.chunk.js": "/JS-Train-ReactBasic/static/js/3.77731a86.chunk.js",
+    "static/js/3.77731a86.chunk.js.map": "/JS-Train-ReactBasic/static/js/3.77731a86.chunk.js.map",
+    "index.html": "/JS-Train-ReactBasic/index.html",
+    "static/css/main.3faf75ee.chunk.css.map": "/JS-Train-ReactBasic/static/css/main.3faf75ee.chunk.css.map",
+    "static/js/2.e8c21638.chunk.js.LICENSE.txt": "/JS-Train-ReactBasic/static/js/2.e8c21638.chunk.js.LICENSE.txt",
+    "static/media/neutral.6e653916.png": "/JS-Train-ReactBasic/static/media/neutral.6e653916.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a650247.js",
+    "static/js/2.e8c21638.chunk.js",
+    "static/css/main.3faf75ee.chunk.css",
+    "static/js/main.52527939.chunk.js"
+  ]
+}
